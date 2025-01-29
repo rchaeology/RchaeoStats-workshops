@@ -1,0 +1,53 @@
+[
+  {
+    "objectID": "workshops/archive/2024-05-28_oeai-vienna/index.html",
+    "href": "workshops/archive/2024-05-28_oeai-vienna/index.html",
+    "title": "RchaeoStats @ OEAI Vienna",
+    "section": "",
+    "text": "Notes\n  \n\n      \nWhen: 28-29 May, 2024\nWhere: Austrian Archaeological Institute, Vienna\n\n    \n  \n\n\nThe first iteration of the workshop."
+  },
+  {
+    "objectID": "workshops/2025-02-19_unileiden/index.html",
+    "href": "workshops/2025-02-19_unileiden/index.html",
+    "title": "RchaeoStats @ Leiden University",
+    "section": "",
+    "text": "Materials\n  \n  \n    \n     Notes\n  \n\n      \nWhen: 19 February - 05 March, 2025\nWhere: Van Steenis, Faculty of Archaeology, Leiden University\nRegistration: https://fd24.formdesk.com/universiteitleiden/RchaeoStats2025-1/\n\n    \n  \n\n\n\nSchedule\n\n\n\n\n\n\n\n\n\nDate\nTime\nLocation\nTopic\n\n\n\n\nWednesday, 19-02-2025\n13.30-16.30\nVan Steenis room E0.02A\nWelcome  Intro to R/RStudio  Project organisation\n\n\nFriday, 21-02-2025\n13.30-16.30\nVan Steenis room E0.02A\nCleaning data  Intro to Statistics\n\n\nMonday, 24-02-2025\n13.30-16.30\nVan Steenis room E0.02B\nVisualising data\n\n\nFriday, 28-02-2025\n13.30-16.30\nVan Steenis room A2.02A (Corrie Bakelzaal)\nVisualising data  Transforming data\n\n\nMonday, 03-03-2025\n13.30-16.30\nVan Steenis room E0.02B\nTransforming data  Modelling data\n\n\nWednesday, 05-03-2025\n13.00-17.00\nVan Steenis room E0.02B\nCommunicating data"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "RchaeoStats Workshops",
+    "section": "",
+    "text": "A list of past and upcoming RchaeoStats workshops.\nMore information about RchaeoStats can be found on the main website.",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "index.html#upcoming",
+    "href": "index.html#upcoming",
+    "title": "RchaeoStats Workshops",
+    "section": "Upcoming",
+    "text": "Upcoming\n\n\n\n\n\nRchaeoStats @ Leiden University\n\n\n\n\n\nRchaeoStats workshop at Leiden University, 19 February-5 March, 2025.\n\n\n\n\n\nFeb 19, 2025\n\n\nBjorn\n\n\n\n\n\n\nNo matching items",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "index.html#past",
+    "href": "index.html#past",
+    "title": "RchaeoStats Workshops",
+    "section": "Past",
+    "text": "Past\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nTitle\n\n\nSubtitle\n\n\nDescription\n\n\nDate\n\n\n\n\n\n\nRchaeoStats @ OEAI Vienna\n\n\n \n\n\nRchaeoStats workshop at the Austrian Archaeological Institute, Vienna. 28-29 May, 2024\n\n\nMay 28, 2024\n\n\n\n\nRchaeoStats @ DAI Berlin\n\n\n \n\n\nRchaeoStats workshop at the German Archaeological Institute, Berlin. 9-11 September, 2024\n\n\nSep 9, 2024\n\n\n\n\n\nNo matching items",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "workshops/archive/2024-09-09_dai-berlin/index.html",
+    "href": "workshops/archive/2024-09-09_dai-berlin/index.html",
+    "title": "RchaeoStats @ DAI Berlin",
+    "section": "",
+    "text": "Materials\n  \n  \n    \n     Notes\n  \n\n      \nWhen: 9th - 11th September, 2024\nWhere: German Archaeological Institute, Berlin\n\n    \n  \n\n\n\nSchedule\n\n\n\n\n\n\n\n\n\nDate\nTime\nLocation\nTopic\n\n\n\n\nMonday, 09-09-2024\n10.00-16.00\nDAI\nWelcome  Intro to R/RStudio  Project organisation  Cleaning Data\n\n\nTuesday, 10-09-2024\n10.00-16.00\nDAI\nVisualising Data  Transforming Data\n\n\nWednesday, 11-09-2024\n10.00-16.00\nDAI\nModelling Data  Communicating Data"
+  }
+]
