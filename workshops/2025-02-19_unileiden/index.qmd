@@ -1,0 +1,30 @@
+---
+title: RchaeoStats @ Leiden University
+description: RchaeoStats workshop at Leiden University, 19 February-5 March, 2025.
+author: Bjorn
+date: "2025-02-19"
+about:
+  id: hero-heading
+  template: solana
+  links:
+    - icon: github
+      text: Materials
+      href: https://github.com/Rchaeology/RchaeoStats # link to branch/release with the materials
+    - icon: github
+      text: Notes
+      href: https://github.com/rchaeology/RchaeoStats-workshop-notes/tree/2025-02-19_unileiden # link to ntoes
+---
+
+:::{#hero-heading}
+
+**When:** 19 February - 05 March, 2025
+
+**Where:** Van Steenis, Faculty of Archaeology, Leiden University
+
+**Registration:** <https://fd24.formdesk.com/universiteitleiden/RchaeoStats2025-1/>
+
+:::
+
+### Schedule
+
+{{< include _schedule.md >}}

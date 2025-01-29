@@ -1,0 +1,21 @@
+---
+title: RchaeoStats @ OEAI Vienna
+date: "2024-05-28"
+author: Bjorn
+description: "RchaeoStats workshop at the Austrian Archaeological Institute, Vienna. 28-29 May, 2024"
+about:
+  id: hero-heading
+  template: solana
+  links: 
+    - icon: github
+      text: Notes
+      href: "https://github.com/bbartholdy/2024-05-28_oeai-workshop" 
+---
+
+::: {#hero-heading}
+**When:** 28-29 May, 2024
+
+**Where:** Austrian Archaeological Institute, Vienna
+:::
+
+The first iteration of  the workshop.

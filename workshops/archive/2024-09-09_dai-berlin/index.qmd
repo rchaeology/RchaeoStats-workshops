@@ -1,0 +1,29 @@
+---
+title: RchaeoStats @ DAI Berlin
+author: Bjorn
+date: "2024-09-09"
+description: "RchaeoStats workshop at the German Archaeological Institute, Berlin. 9-11 September, 2024"
+about:
+  id: hero-heading
+  template: solana
+  #image: profile.jpg
+  links:
+    - icon: github
+      text: Materials
+      href: https://rchaeology.github.io/RchaeoStats # link to branch with the materials
+    - icon: github
+      text: Notes
+      href: https://github.com/rchaeology/RchaeoStats-workshop-notes/tree/2024-09-09_dai # link to ntoes
+---
+
+:::{#hero-heading}
+
+**When:** 9th - 11th September, 2024
+
+**Where:** German Archaeological Institute, Berlin
+
+:::
+
+### Schedule
+
+{{< include _schedule.md >}}

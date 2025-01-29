@@ -1,0 +1,24 @@
+project:
+  type: website
+
+website:
+  title: "RchaeoStats Workshops"
+
+  sidebar: 
+    style: floating
+    logo: https://raw.githubusercontent.com/Rchaeology/RchaeoStats/refs/heads/main/images/hexsticker.png
+    search: false
+    contents: 
+      - href: index.qmd
+        text: Home
+    tools: 
+      - icon: github
+        text: GitHub
+        href: "https://github.com/rchaeology/RchaeoStats-workshops"
+
+  page-footer:
+    center: "Website built with ❤︎️ and [Quarto](https://quarto.org/)."
+
+format:
+  html:
+    theme: cosmo

@@ -1,0 +1,43 @@
+---
+title: RchaeoStats Workshops
+listing: 
+  - id: upcoming
+    contents: workshops/*/index.qmd
+    type: default
+    sort: "date"
+    sort-ui: false
+    fields:
+      - title
+      - subtitle
+      - description
+      - date
+      - author
+  - id: past
+    contents: workshops/archive/*/index.qmd
+    type: table
+    sort: "date"
+    sort-ui: true
+    fields:
+      - title
+      - subtitle
+      - description
+      - date
+---
+
+
+A list of past and upcoming RchaeoStats workshops.
+
+More information about RchaeoStats can be found on the
+[main website](https://rchaeology.github.io/RchaeoStats).
+
+
+## Upcoming
+
+:::{#upcoming}
+:::
+
+
+## Past
+
+:::{#past}
+:::
