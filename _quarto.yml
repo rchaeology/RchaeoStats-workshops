@@ -15,6 +15,9 @@ website:
       - icon: github
         text: GitHub
         href: "https://github.com/rchaeology/RchaeoStats-workshops"
+      - icon: mastodon
+        text: Mastodon
+        href: "https://archaeo.social/@Rchaeology"
 
   page-footer:
     center: "Website built with ❤︎️ and [Quarto](https://quarto.org/)."
