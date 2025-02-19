@@ -1,0 +1,157 @@
+---
+title: Hello 👋
+description: Brief introduction to the materials.
+#image: "/images/00_welcome.png"
+format: 
+  revealjs: 
+    navigation-mode: linear
+    df-print: paged
+    center: false
+    embed-resources: true
+---
+
+```{r}
+library(here)
+#mortuary_data <- readxl::read_xlsx(here("data/mortuary-data.xlsx"))
+tmp <- tempfile(fileext = ".xlsx")
+download.file(
+    "https://raw.githubusercontent.com/rchaeology/RchaeoStats/refs/heads/main/data/mortuary-data.xlsx",
+    destfile = tmp
+)
+mortuary_data <- readxl::read_xlsx(tmp)
+sheep_data <- readr::read_csv("https://raw.githubusercontent.com/rchaeology/RchaeoStats/refs/heads/main/data/sheep-data.csv")
+```
+
+## {.smaller}
+
+{{< include _schedule.md >}}
+
+
+## R {.center}
+
+Pronounced /'Arrrgh/
+
+![GIPHY](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzR6dG9qeTVlbWNqMW1vb3p5cmgzczhheDc1OHlhemE3cHA2MTh6cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LUIvcbR6yytz2/giphy.gif)
+
+## Why R?
+
+Because it's the best!
+
+End of presentation.
+
+![[Artwork by @allison_horst.](https://twitter.com/allison_horst)](https://cdn.myportfolio.com/45214904-6a61-4e23-98d6-b140f8654a40/151b3f30-b75a-4f57-b0e5-228c4cc3fd02_rw_1920.png?h=eb3f640356da909ff1c615d2cf45eb4e)
+
+
+## Why R?
+
+R is a **free and open source** software environment for statistical computing and graphics
+
+There are 20000+ available packages on CRAN
+
+The R community is pretty cool
+
+![[Artwork by @allison_horst.](https://twitter.com/allison_horst)](https://cdn.myportfolio.com/45214904-6a61-4e23-98d6-b140f8654a40/5ccff989-900e-4f2b-aece-55278b563cfa_rw_1920.png?h=e61fb9e7f31d490ebf29f9f69ea2977a){fig-alt='Header text "R learners" above five friendly monsters holding up signs that together read "we believe in you."'}
+
+## Why R(chaeology)? {background-image="https://raw.githubusercontent.com/rchaeology/RchaeoStats/refs/heads/main/images/arch-languages.png" background-position="90% 50%" background-size="20%"}
+
+Seems to be the most popular
+
+[Batist & Roe (2024). DOI: 10.11141/ia.67.13](https://doi.org/10.11141/ia.67.13)
+
+
+## Why RStudio?
+
+RStudio is an integrated development environment (IDE) specifically for R
+
+It provides a bunch of extra features to make using R a delight!
+
+
+## tidyverse
+
+The tidyverse is a collection of R packages sharing the same data science philosophy
+
+It provides a nice workflow for cleaning, visualising, and transforming data
+
+**Aspects of 'base R' will also be covered**
+
+![](https://raw.githubusercontent.com/rchaeology/RchaeoStats/refs/heads/main/images/base.png)
+
+
+## About the materials {.smaller}
+
+It **is not** enough to cover all important topics.
+
+It **is** enough to teach you how to find answers and implement them yourself.
+
+![](https://raw.githubusercontent.com/rchaeology/RchaeoStats/refs/heads/main/images/base.png)
+
+
+## The datasets: Sheep Astragali {.smaller}
+
+Sheep astragulus morphology from Iron Age Eastern Mediterranean.
+
+nmar79. (2023). nmar79/Med_Sheep_Astragals: v0.1 (v0.1). Zenodo. https://doi.org/10.5281/zenodo.10276147
+
+```{r}
+#| label: sheep-data
+#| echo: false
+sheep_data
+```
+
+
+## The datasets: Kiwulan Burials {.smaller}
+
+Burial data from northeastern Taiwan ranging from the Iron Age through the European colonization period.
+
+> Li-Ying Wang & Ben Marwick, (2021). Compendium of R code and data for "A Bayesian networks approach to infer social changes from burials in northeastern Taiwan during the European colonization period". Accessed 23 Aug 2021. Online at https://osf.io/xga6n/
+
+
+```{r}
+#| label: the-data
+#| echo: false
+mortuary_data
+```
+
+
+## Assignment 1: Case study {.smaller}
+
+Assignment 1 consists of finding, importing, cleaning, and exploring/analysing
+a dataset.
+
+### 1.1 Find, import, clean
+
+Find a dataset that you want to work with, then use a script to download
+and clean the data.
+
+If you can't find a dataset, you can use the full, unmodified version of the
+workshop data here: <https://osf.io/zem9p>
+
+### 1.2 Exploratory data analysis
+
+If the EDA module is included in the workshop, then assignment 1 is extended
+to include EDA. Plot the distribution of at least two types of variables
+that you are interested in exploring further.
+
+Create at least one plot with the relationship between two variables, and
+a summary table with the mean and standard deviation within groupings
+of a variable. <!-- need alternative for cat variables -->
+
+### 1.3 Data modelling
+
+If the data modelling module is taught in the workshop, select at least two
+statistical models to apply to the data.
+
+### 1.4 Communicating results
+
+Use Quarto to communicate the results from the previous sections of assignment 1.
+This can be in the form of a report, short manuscript, presentation, or whatever format in Quarto you prefer.
+
+
+## Assignment 2: Reproduce someone else's code
+
+You will be paired up with another person in the workshop. Send each other your project and try to run the other's code.
+
+Make a note of any issues you encounter, and provide feedback in a document.
+
+Incorporate feedback.
+

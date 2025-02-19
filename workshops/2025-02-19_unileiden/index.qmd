@@ -9,12 +9,12 @@ about:
   links:
     - icon: github
       text: Materials
-      href: https://github.com/Rchaeology/RchaeoStats # link to branch/release with the materials
+      href: https://github.com/Rchaeology/RchaeoStats
     - icon: github
       text: Notes
       href: https://github.com/rchaeology/RchaeoStats-workshop-notes/tree/2025-02-19_unileiden # link to ntoes
 ---
-
+ 
 :::{#hero-heading}
 
 **When:** 19 February - 05 March, 2025
@@ -25,6 +25,12 @@ about:
 
 :::
 
+
 ### Schedule
 
 {{< include _schedule.md >}}
+
+
+### Introductory slides
+
+<iframe src="/workshops/2025-02-19_unileiden/welcome.html" width="750" height="500"></iframe>
