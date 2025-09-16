@@ -14,7 +14,7 @@
     "href": "index.html#upcoming",
     "title": "RchaeoStats Workshops",
     "section": "Upcoming",
-    "text": "Upcoming\n\n\n\n\n\nRchaeoStats @ Leiden University\n\n\n\n\n\nRchaeoStats workshop at Leiden University, 19 February-5 March, 2025.\n\n\n\n\n\nFeb 19, 2025\n\n\nBjorn\n\n\n\n\n\n\nNo matching items",
+    "text": "Upcoming\n\n\n\n\n\nRchaeoStats @ BABAO 2025\n\n\n\n\n\nRchaeoStats workshop at BABAO 2025, 18th September, 2025.\n\n\n\n\n\nSep 18, 2025\n\n\nBjorn\n\n\n\n\n\nNo matching items",
     "crumbs": [
       "Home"
     ]
@@ -24,10 +24,185 @@
     "href": "index.html#past",
     "title": "RchaeoStats Workshops",
     "section": "Past",
-    "text": "Past\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nTitle\n\n\nSubtitle\n\n\nDescription\n\n\nDate\n\n\n\n\n\n\nRchaeoStats @ OEAI Vienna\n\n\n \n\n\nRchaeoStats workshop at the Austrian Archaeological Institute, Vienna. 28-29 May, 2024\n\n\nMay 28, 2024\n\n\n\n\nRchaeoStats @ DAI Berlin\n\n\n \n\n\nRchaeoStats workshop at the German Archaeological Institute, Berlin. 9-11 September, 2024\n\n\nSep 9, 2024\n\n\n\n\n\nNo matching items",
+    "text": "Past\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Title\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nTitle\n\n\n\nSubtitle\n\n\n\nDescription\n\n\n\nDate\n\n\n\n\n\n\n\n\nRchaeoStats @ OEAI Vienna\n\n\n \n\n\nRchaeoStats workshop at the Austrian Archaeological Institute, Vienna. 28-29 May, 2024\n\n\nMay 28, 2024\n\n\n\n\n\n\nRchaeoStats @ DAI Berlin\n\n\n \n\n\nRchaeoStats workshop at the German Archaeological Institute, Berlin. 9-11 September, 2024\n\n\nSep 9, 2024\n\n\n\n\n\n\nRchaeoStats @ Leiden University\n\n\n \n\n\nRchaeoStats workshop at Leiden University, 19 February-5 March, 2025.\n\n\nFeb 19, 2025\n\n\n\n\n\n\nNo matching items",
     "crumbs": [
       "Home"
     ]
+  },
+  {
+    "objectID": "workshops/archive/2025-02-19_unileiden/welcome.html#section",
+    "href": "workshops/archive/2025-02-19_unileiden/welcome.html#section",
+    "title": "Hello 👋",
+    "section": "",
+    "text": "Date\nTime\nLocation\nTopic\n\n\n\n\nWednesday, 19-02-2025\n13.30-16.30\nVan Steenis room E0.02A\nWelcome  Intro to R/RStudio  R Basics\n\n\nFriday, 21-02-2025\n13.30-16.30\nVan Steenis room E0.02A\nProject organisation  Cleaning data\n\n\nMonday, 24-02-2025\n13.30-16.30\nVan Steenis room E0.02B\nIntro to Statistics  EDA  Visualising data\n\n\nFriday, 28-02-2025\n13.30-16.30\nVan Steenis room A2.02A (Corrie Bakelzaal)\nVisualising data  Transforming data\n\n\nMonday, 03-03-2025\n13.30-16.30\nVan Steenis room E0.02B\nTransforming data  Modelling data\n\n\nWednesday, 05-03-2025\n13.00-17.00\nVan Steenis room E0.02B\nCommunicating data"
+  },
+  {
+    "objectID": "workshops/archive/2025-02-19_unileiden/welcome.html#r",
+    "href": "workshops/archive/2025-02-19_unileiden/welcome.html#r",
+    "title": "Hello 👋",
+    "section": "R",
+    "text": "R\nPronounced /’Arrrgh/\n\nGIPHY"
+  },
+  {
+    "objectID": "workshops/archive/2025-02-19_unileiden/welcome.html#why-r",
+    "href": "workshops/archive/2025-02-19_unileiden/welcome.html#why-r",
+    "title": "Hello 👋",
+    "section": "Why R?",
+    "text": "Why R?\nBecause it’s the best!\nEnd of presentation.\n\nArtwork by @allison_horst."
+  },
+  {
+    "objectID": "workshops/archive/2025-02-19_unileiden/welcome.html#why-r-1",
+    "href": "workshops/archive/2025-02-19_unileiden/welcome.html#why-r-1",
+    "title": "Hello 👋",
+    "section": "Why R?",
+    "text": "Why R?\nR is a free and open source software environment for statistical computing and graphics\nThere are 20000+ available packages on CRAN\nThe R community is pretty cool\n\nArtwork by @allison_horst."
+  },
+  {
+    "objectID": "workshops/archive/2025-02-19_unileiden/welcome.html#why-rchaeology",
+    "href": "workshops/archive/2025-02-19_unileiden/welcome.html#why-rchaeology",
+    "title": "Hello 👋",
+    "section": "Why R(chaeology)?",
+    "text": "Why R(chaeology)?\nSeems to be the most popular\nBatist & Roe (2024). DOI: 10.11141/ia.67.13"
+  },
+  {
+    "objectID": "workshops/archive/2025-02-19_unileiden/welcome.html#why-rstudio",
+    "href": "workshops/archive/2025-02-19_unileiden/welcome.html#why-rstudio",
+    "title": "Hello 👋",
+    "section": "Why RStudio?",
+    "text": "Why RStudio?\nRStudio is an integrated development environment (IDE) specifically for R\nIt provides a bunch of extra features to make using R a delight!"
+  },
+  {
+    "objectID": "workshops/archive/2025-02-19_unileiden/welcome.html#tidyverse",
+    "href": "workshops/archive/2025-02-19_unileiden/welcome.html#tidyverse",
+    "title": "Hello 👋",
+    "section": "tidyverse",
+    "text": "tidyverse\nThe tidyverse is a collection of R packages sharing the same data science philosophy\nIt provides a nice workflow for cleaning, visualising, and transforming data\nAspects of ‘base R’ will also be covered"
+  },
+  {
+    "objectID": "workshops/archive/2025-02-19_unileiden/welcome.html#about-the-materials",
+    "href": "workshops/archive/2025-02-19_unileiden/welcome.html#about-the-materials",
+    "title": "Hello 👋",
+    "section": "About the materials",
+    "text": "About the materials\nIt is not enough to cover all important topics.\nIt is enough to teach you how to find answers and implement them yourself."
+  },
+  {
+    "objectID": "workshops/archive/2025-02-19_unileiden/welcome.html#the-datasets-sheep-astragali",
+    "href": "workshops/archive/2025-02-19_unileiden/welcome.html#the-datasets-sheep-astragali",
+    "title": "Hello 👋",
+    "section": "The datasets: Sheep Astragali",
+    "text": "The datasets: Sheep Astragali\nSheep astragulus morphology from Iron Age Eastern Mediterranean.\nnmar79. (2023). nmar79/Med_Sheep_Astragals: v0.1 (v0.1). Zenodo. https://doi.org/10.5281/zenodo.10276147"
+  },
+  {
+    "objectID": "workshops/archive/2025-02-19_unileiden/welcome.html#the-datasets-kiwulan-burials",
+    "href": "workshops/archive/2025-02-19_unileiden/welcome.html#the-datasets-kiwulan-burials",
+    "title": "Hello 👋",
+    "section": "The datasets: Kiwulan Burials",
+    "text": "The datasets: Kiwulan Burials\nBurial data from northeastern Taiwan ranging from the Iron Age through the European colonization period.\n\nLi-Ying Wang & Ben Marwick, (2021). Compendium of R code and data for “A Bayesian networks approach to infer social changes from burials in northeastern Taiwan during the European colonization period”. Accessed 23 Aug 2021. Online at https://osf.io/xga6n/"
+  },
+  {
+    "objectID": "workshops/archive/2025-02-19_unileiden/welcome.html#assignment-1-case-study",
+    "href": "workshops/archive/2025-02-19_unileiden/welcome.html#assignment-1-case-study",
+    "title": "Hello 👋",
+    "section": "Assignment 1: Case study",
+    "text": "Assignment 1: Case study\nAssignment 1 consists of finding, importing, cleaning, and exploring/analysing a dataset.\n1.1 Find, import, clean\nFind a dataset that you want to work with, then use a script to download and clean the data.\nIf you can’t find a dataset, you can use the full, unmodified version of the workshop data here: https://osf.io/zem9p\n1.2 Exploratory data analysis\nIf the EDA module is included in the workshop, then assignment 1 is extended to include EDA. Plot the distribution of at least two types of variables that you are interested in exploring further.\nCreate at least one plot with the relationship between two variables, and a summary table with the mean and standard deviation within groupings of a variable. \n1.3 Data modelling\nIf the data modelling module is taught in the workshop, select at least two statistical models to apply to the data.\n1.4 Communicating results\nUse Quarto to communicate the results from the previous sections of assignment 1. This can be in the form of a report, short manuscript, presentation, or whatever format in Quarto you prefer."
+  },
+  {
+    "objectID": "workshops/archive/2025-02-19_unileiden/welcome.html#assignment-2-reproduce-someone-elses-code",
+    "href": "workshops/archive/2025-02-19_unileiden/welcome.html#assignment-2-reproduce-someone-elses-code",
+    "title": "Hello 👋",
+    "section": "Assignment 2: Reproduce someone else’s code",
+    "text": "Assignment 2: Reproduce someone else’s code\nYou will be paired up with another person in the workshop. Send each other your project and try to run the other’s code.\nMake a note of any issues you encounter, and provide feedback in a document.\nIncorporate feedback."
+  },
+  {
+    "objectID": "workshops/archive/2024-05-28_oeai-vienna/index.html",
+    "href": "workshops/archive/2024-05-28_oeai-vienna/index.html",
+    "title": "RchaeoStats @ OEAI Vienna",
+    "section": "",
+    "text": "Notes\n  \n\n      \nWhen: 28-29 May, 2024\nWhere: Austrian Archaeological Institute, Vienna\n\n    \n  \n\n\nThe first iteration of the workshop."
+  },
+  {
+    "objectID": "workshops/2025-09-18_babao/welcome.html#section",
+    "href": "workshops/2025-09-18_babao/welcome.html#section",
+    "title": "Hello 👋",
+    "section": "",
+    "text": "Date\nTime\nLocation\nTopic\n\n\n\n\nThursday, 18-09-2025\n9.00-12.00\nKathleen Kenyon Building, Room 1.21\nWelcome  Intro to R/RStudio  R Basics  Project Organisation  Cleaning data\n\n\nThursday, 18-09-2025\n13.00-16.00\nKathleen Kenyon Building, Room 1.21\nUnderstanding Dental Data"
+  },
+  {
+    "objectID": "workshops/2025-09-18_babao/welcome.html#r",
+    "href": "workshops/2025-09-18_babao/welcome.html#r",
+    "title": "Hello 👋",
+    "section": "R",
+    "text": "R\nPronounced /’Arrrgh/\n\nGIPHY"
+  },
+  {
+    "objectID": "workshops/2025-09-18_babao/welcome.html#why-r",
+    "href": "workshops/2025-09-18_babao/welcome.html#why-r",
+    "title": "Hello 👋",
+    "section": "Why R?",
+    "text": "Why R?\nBecause it’s the best!\nEnd of presentation.\n\nArtwork by @allison_horst."
+  },
+  {
+    "objectID": "workshops/2025-09-18_babao/welcome.html#why-r-1",
+    "href": "workshops/2025-09-18_babao/welcome.html#why-r-1",
+    "title": "Hello 👋",
+    "section": "Why R?",
+    "text": "Why R?\nR is a free and open source software environment for statistical computing and graphics\nThere are 20000+ available packages on CRAN\nThe R community is pretty cool\n\nArtwork by @allison_horst."
+  },
+  {
+    "objectID": "workshops/2025-09-18_babao/welcome.html#why-rchaeology",
+    "href": "workshops/2025-09-18_babao/welcome.html#why-rchaeology",
+    "title": "Hello 👋",
+    "section": "Why R(chaeology)?",
+    "text": "Why R(chaeology)?\nSeems to be the most popular\nBatist & Roe (2024). DOI: 10.11141/ia.67.13"
+  },
+  {
+    "objectID": "workshops/2025-09-18_babao/welcome.html#why-rstudio",
+    "href": "workshops/2025-09-18_babao/welcome.html#why-rstudio",
+    "title": "Hello 👋",
+    "section": "Why RStudio?",
+    "text": "Why RStudio?\nRStudio is an integrated development environment (IDE) specifically for R\nIt provides a bunch of extra features to make using R a delight!"
+  },
+  {
+    "objectID": "workshops/2025-09-18_babao/welcome.html#tidyverse",
+    "href": "workshops/2025-09-18_babao/welcome.html#tidyverse",
+    "title": "Hello 👋",
+    "section": "tidyverse",
+    "text": "tidyverse\nThe tidyverse is a collection of R packages sharing the same data science philosophy\nIt provides a nice workflow for cleaning, visualising, and transforming data\nAspects of ‘base R’ will also be covered"
+  },
+  {
+    "objectID": "workshops/2025-09-18_babao/welcome.html#about-the-materials",
+    "href": "workshops/2025-09-18_babao/welcome.html#about-the-materials",
+    "title": "Hello 👋",
+    "section": "About the materials",
+    "text": "About the materials\nIt is not enough to cover all important topics.\nIt is enough to teach you how to find answers and implement them yourself."
+  },
+  {
+    "objectID": "workshops/2025-09-18_babao/welcome.html#the-datasets-sheep-astragali",
+    "href": "workshops/2025-09-18_babao/welcome.html#the-datasets-sheep-astragali",
+    "title": "Hello 👋",
+    "section": "The datasets: Sheep Astragali",
+    "text": "The datasets: Sheep Astragali\nSheep astragulus morphology from Iron Age Eastern Mediterranean.\nnmar79. (2023). nmar79/Med_Sheep_Astragals: v0.1 (v0.1). Zenodo. https://doi.org/10.5281/zenodo.10276147"
+  },
+  {
+    "objectID": "workshops/2025-09-18_babao/welcome.html#the-datasets-kiwulan-burials",
+    "href": "workshops/2025-09-18_babao/welcome.html#the-datasets-kiwulan-burials",
+    "title": "Hello 👋",
+    "section": "The datasets: Kiwulan Burials",
+    "text": "The datasets: Kiwulan Burials\nBurial data from northeastern Taiwan ranging from the Iron Age through the European colonization period.\n\nLi-Ying Wang & Ben Marwick, (2021). Compendium of R code and data for “A Bayesian networks approach to infer social changes from burials in northeastern Taiwan during the European colonization period”. Accessed 23 Aug 2021. Online at https://osf.io/xga6n/"
+  },
+  {
+    "objectID": "workshops/2025-09-18_babao/welcome.html#the-datasets-chelsea-old-church",
+    "href": "workshops/2025-09-18_babao/welcome.html#the-datasets-chelsea-old-church",
+    "title": "Hello 👋",
+    "section": "The datasets: Chelsea Old Church",
+    "text": "The datasets: Chelsea Old Church"
+  },
+  {
+    "objectID": "workshops/2025-09-18_babao/index.html",
+    "href": "workshops/2025-09-18_babao/index.html",
+    "title": "RchaeoStats @ BABAO 2025",
+    "section": "",
+    "text": "Materials\n  \n  \n    \n     Notes\n  \n\n      \nWhen: 18 September, 2025\nWhere: Kathleen Kenyon Building, Room 1.21, Leicester University\nRegistration: Done via BABAO conference website.\n\n    \n  \n\n\n\nSchedule\n\n\n\n\n\n\n\n\n\nDate\nTime\nLocation\nTopic\n\n\n\n\nThursday, 18-09-2025\n9.00-12.00\nKathleen Kenyon Building, Room 1.21\nWelcome  Intro to R/RStudio  R Basics  Project Organisation  Cleaning data\n\n\nThursday, 18-09-2025\n13.00-16.00\nKathleen Kenyon Building, Room 1.21\nUnderstanding Dental Data\n\n\n\n\n\nIntroductory slides"
   },
   {
     "objectID": "workshops/archive/2024-09-09_dai-berlin/index.html",
@@ -37,101 +212,10 @@
     "text": "Materials\n  \n  \n    \n     Notes\n  \n\n      \nWhen: 9th - 11th September, 2024\nWhere: German Archaeological Institute, Berlin\n\n    \n  \n\n\n\nSchedule\n\n\n\n\n\n\n\n\n\nDate\nTime\nLocation\nTopic\n\n\n\n\nMonday, 09-09-2024\n10.00-16.00\nDAI\nWelcome  Intro to R/RStudio  Project organisation  Cleaning Data\n\n\nTuesday, 10-09-2024\n10.00-16.00\nDAI\nVisualising Data  Transforming Data\n\n\nWednesday, 11-09-2024\n10.00-16.00\nDAI\nModelling Data  Communicating Data"
   },
   {
-    "objectID": "workshops/2025-02-19_unileiden/welcome.html#section",
-    "href": "workshops/2025-02-19_unileiden/welcome.html#section",
-    "title": "Hello 👋",
-    "section": "",
-    "text": "Date\nTime\nLocation\nTopic\n\n\n\n\nWednesday, 19-02-2025\n13.30-16.30\nVan Steenis room E0.02A\nWelcome  Intro to R/RStudio  Project organisation\n\n\nFriday, 21-02-2025\n13.30-16.30\nVan Steenis room E0.02A\nCleaning data  Intro to Statistics\n\n\nMonday, 24-02-2025\n13.30-16.30\nVan Steenis room E0.02B\nVisualising data\n\n\nFriday, 28-02-2025\n13.30-16.30\nVan Steenis room A2.02A (Corrie Bakelzaal)\nVisualising data  Transforming data\n\n\nMonday, 03-03-2025\n13.30-16.30\nVan Steenis room E0.02B\nTransforming data  Modelling data\n\n\nWednesday, 05-03-2025\n13.00-17.00\nVan Steenis room E0.02B\nCommunicating data"
-  },
-  {
-    "objectID": "workshops/2025-02-19_unileiden/welcome.html#r",
-    "href": "workshops/2025-02-19_unileiden/welcome.html#r",
-    "title": "Hello 👋",
-    "section": "R",
-    "text": "R\nPronounced /’Arrrgh/\n\nGIPHY"
-  },
-  {
-    "objectID": "workshops/2025-02-19_unileiden/welcome.html#why-r",
-    "href": "workshops/2025-02-19_unileiden/welcome.html#why-r",
-    "title": "Hello 👋",
-    "section": "Why R?",
-    "text": "Why R?\nBecause it’s the best!\nEnd of presentation.\n\nArtwork by @allison_horst."
-  },
-  {
-    "objectID": "workshops/2025-02-19_unileiden/welcome.html#why-r-1",
-    "href": "workshops/2025-02-19_unileiden/welcome.html#why-r-1",
-    "title": "Hello 👋",
-    "section": "Why R?",
-    "text": "Why R?\nR is a free and open source software environment for statistical computing and graphics\nThere are 20000+ available packages on CRAN\nThe R community is pretty cool\n\nArtwork by @allison_horst."
-  },
-  {
-    "objectID": "workshops/2025-02-19_unileiden/welcome.html#why-rchaeology",
-    "href": "workshops/2025-02-19_unileiden/welcome.html#why-rchaeology",
-    "title": "Hello 👋",
-    "section": "Why R(chaeology)?",
-    "text": "Why R(chaeology)?\nSeems to be the most popular\nBatist & Roe (2024). DOI: 10.11141/ia.67.13"
-  },
-  {
-    "objectID": "workshops/2025-02-19_unileiden/welcome.html#why-rstudio",
-    "href": "workshops/2025-02-19_unileiden/welcome.html#why-rstudio",
-    "title": "Hello 👋",
-    "section": "Why RStudio?",
-    "text": "Why RStudio?\nRStudio is an integrated development environment (IDE) specifically for R\nIt provides a bunch of extra features to make using R a delight!"
-  },
-  {
-    "objectID": "workshops/2025-02-19_unileiden/welcome.html#tidyverse",
-    "href": "workshops/2025-02-19_unileiden/welcome.html#tidyverse",
-    "title": "Hello 👋",
-    "section": "tidyverse",
-    "text": "tidyverse\nThe tidyverse is a collection of R packages sharing the same data science philosophy\nIt provides a nice workflow for cleaning, visualising, and transforming data\nAspects of ‘base R’ will also be covered"
-  },
-  {
-    "objectID": "workshops/2025-02-19_unileiden/welcome.html#about-the-materials",
-    "href": "workshops/2025-02-19_unileiden/welcome.html#about-the-materials",
-    "title": "Hello 👋",
-    "section": "About the materials",
-    "text": "About the materials\nIt is not enough to cover all important topics.\nIt is enough to teach you how to find answers and implement them yourself."
-  },
-  {
-    "objectID": "workshops/2025-02-19_unileiden/welcome.html#the-datasets-sheep-astragali",
-    "href": "workshops/2025-02-19_unileiden/welcome.html#the-datasets-sheep-astragali",
-    "title": "Hello 👋",
-    "section": "The datasets: Sheep Astragali",
-    "text": "The datasets: Sheep Astragali\nSheep astragulus morphology from Iron Age Eastern Mediterranean.\nnmar79. (2023). nmar79/Med_Sheep_Astragals: v0.1 (v0.1). Zenodo. https://doi.org/10.5281/zenodo.10276147"
-  },
-  {
-    "objectID": "workshops/2025-02-19_unileiden/welcome.html#the-datasets-kiwulan-burials",
-    "href": "workshops/2025-02-19_unileiden/welcome.html#the-datasets-kiwulan-burials",
-    "title": "Hello 👋",
-    "section": "The datasets: Kiwulan Burials",
-    "text": "The datasets: Kiwulan Burials\nBurial data from northeastern Taiwan ranging from the Iron Age through the European colonization period.\n\nLi-Ying Wang & Ben Marwick, (2021). Compendium of R code and data for “A Bayesian networks approach to infer social changes from burials in northeastern Taiwan during the European colonization period”. Accessed 23 Aug 2021. Online at https://osf.io/xga6n/"
-  },
-  {
-    "objectID": "workshops/2025-02-19_unileiden/welcome.html#assignment-1-case-study",
-    "href": "workshops/2025-02-19_unileiden/welcome.html#assignment-1-case-study",
-    "title": "Hello 👋",
-    "section": "Assignment 1: Case study",
-    "text": "Assignment 1: Case study\nAssignment 1 consists of finding, importing, cleaning, and exploring/analysing a dataset.\n1.1 Find, import, clean\nFind a dataset that you want to work with, then use a script to download and clean the data.\nIf you can’t find a dataset, you can use the full, unmodified version of the workshop data here: https://osf.io/zem9p\n1.2 Exploratory data analysis\nIf the EDA module is included in the workshop, then assignment 1 is extended to include EDA. Plot the distribution of at least two types of variables that you are interested in exploring further.\nCreate at least one plot with the relationship between two variables, and a summary table with the mean and standard deviation within groupings of a variable. \n1.3 Data modelling\nIf the data modelling module is taught in the workshop, select at least two statistical models to apply to the data.\n1.4 Communicating results\nUse Quarto to communicate the results from the previous sections of assignment 1. This can be in the form of a report, short manuscript, presentation, or whatever format in Quarto you prefer."
-  },
-  {
-    "objectID": "workshops/2025-02-19_unileiden/welcome.html#assignment-2-reproduce-someone-elses-code",
-    "href": "workshops/2025-02-19_unileiden/welcome.html#assignment-2-reproduce-someone-elses-code",
-    "title": "Hello 👋",
-    "section": "Assignment 2: Reproduce someone else’s code",
-    "text": "Assignment 2: Reproduce someone else’s code\nYou will be paired up with another person in the workshop. Send each other your project and try to run the other’s code.\nMake a note of any issues you encounter, and provide feedback in a document.\nIncorporate feedback."
-  },
-  {
-    "objectID": "workshops/2025-02-19_unileiden/index.html",
-    "href": "workshops/2025-02-19_unileiden/index.html",
+    "objectID": "workshops/archive/2025-02-19_unileiden/index.html",
+    "href": "workshops/archive/2025-02-19_unileiden/index.html",
     "title": "RchaeoStats @ Leiden University",
     "section": "",
-    "text": "Materials\n  \n  \n    \n     Notes\n  \n\n      \nWhen: 19 February - 05 March, 2025\nWhere: Van Steenis, Faculty of Archaeology, Leiden University\nRegistration: https://fd24.formdesk.com/universiteitleiden/RchaeoStats2025-1/\n\n    \n  \n\n\n\nSchedule\n\n\n\n\n\n\n\n\n\nDate\nTime\nLocation\nTopic\n\n\n\n\nWednesday, 19-02-2025\n13.30-16.30\nVan Steenis room E0.02A\nWelcome  Intro to R/RStudio  Project organisation\n\n\nFriday, 21-02-2025\n13.30-16.30\nVan Steenis room E0.02A\nCleaning data  Intro to Statistics\n\n\nMonday, 24-02-2025\n13.30-16.30\nVan Steenis room E0.02B\nVisualising data\n\n\nFriday, 28-02-2025\n13.30-16.30\nVan Steenis room A2.02A (Corrie Bakelzaal)\nVisualising data  Transforming data\n\n\nMonday, 03-03-2025\n13.30-16.30\nVan Steenis room E0.02B\nTransforming data  Modelling data\n\n\nWednesday, 05-03-2025\n13.00-17.00\nVan Steenis room E0.02B\nCommunicating data\n\n\n\n\n\nIntroductory slides"
-  },
-  {
-    "objectID": "workshops/archive/2024-05-28_oeai-vienna/index.html",
-    "href": "workshops/archive/2024-05-28_oeai-vienna/index.html",
-    "title": "RchaeoStats @ OEAI Vienna",
-    "section": "",
-    "text": "Notes\n  \n\n      \nWhen: 28-29 May, 2024\nWhere: Austrian Archaeological Institute, Vienna\n\n    \n  \n\n\nThe first iteration of the workshop."
+    "text": "Materials\n  \n  \n    \n     Notes\n  \n\n      \nWhen: 19 February - 05 March, 2025\nWhere: Van Steenis, Faculty of Archaeology, Leiden University\nRegistration: https://fd24.formdesk.com/universiteitleiden/RchaeoStats2025-1/\n\n    \n  \n\n\n\nSchedule\n\n\n\n\n\n\n\n\n\nDate\nTime\nLocation\nTopic\n\n\n\n\nWednesday, 19-02-2025\n13.30-16.30\nVan Steenis room E0.02A\nWelcome  Intro to R/RStudio  R Basics\n\n\nFriday, 21-02-2025\n13.30-16.30\nVan Steenis room E0.02A\nProject organisation  Cleaning data\n\n\nMonday, 24-02-2025\n13.30-16.30\nVan Steenis room E0.02B\nIntro to Statistics  EDA  Visualising data\n\n\nFriday, 28-02-2025\n13.30-16.30\nVan Steenis room A2.02A (Corrie Bakelzaal)\nVisualising data  Transforming data\n\n\nMonday, 03-03-2025\n13.30-16.30\nVan Steenis room E0.02B\nTransforming data  Modelling data\n\n\nWednesday, 05-03-2025\n13.00-17.00\nVan Steenis room E0.02B\nCommunicating data\n\n\n\n\n\nIntroductory slides"
   }
 ]

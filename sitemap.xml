@@ -2,22 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://rchaeology.github.io/RchaeoStats-workshops/index.html</loc>
-    <lastmod>2025-02-19T12:12:08.442Z</lastmod>
+    <lastmod>2025-09-16T20:17:51.731Z</lastmod>
   </url>
   <url>
-    <loc>https://rchaeology.github.io/RchaeoStats-workshops/workshops/archive/2024-09-09_dai-berlin/index.html</loc>
-    <lastmod>2025-02-19T12:12:08.443Z</lastmod>
-  </url>
-  <url>
-    <loc>https://rchaeology.github.io/RchaeoStats-workshops/workshops/2025-02-19_unileiden/welcome.html</loc>
-    <lastmod>2025-02-19T12:12:08.443Z</lastmod>
-  </url>
-  <url>
-    <loc>https://rchaeology.github.io/RchaeoStats-workshops/workshops/2025-02-19_unileiden/index.html</loc>
-    <lastmod>2025-02-19T12:12:08.443Z</lastmod>
+    <loc>https://rchaeology.github.io/RchaeoStats-workshops/workshops/archive/2025-02-19_unileiden/welcome.html</loc>
+    <lastmod>2025-09-16T20:17:51.732Z</lastmod>
   </url>
   <url>
     <loc>https://rchaeology.github.io/RchaeoStats-workshops/workshops/archive/2024-05-28_oeai-vienna/index.html</loc>
-    <lastmod>2025-02-19T12:12:08.443Z</lastmod>
+    <lastmod>2025-09-16T20:17:51.732Z</lastmod>
+  </url>
+  <url>
+    <loc>https://rchaeology.github.io/RchaeoStats-workshops/workshops/2025-09-18_babao/welcome.html</loc>
+    <lastmod>2025-09-16T20:17:51.732Z</lastmod>
+  </url>
+  <url>
+    <loc>https://rchaeology.github.io/RchaeoStats-workshops/workshops/2025-09-18_babao/index.html</loc>
+    <lastmod>2025-09-16T20:17:51.732Z</lastmod>
+  </url>
+  <url>
+    <loc>https://rchaeology.github.io/RchaeoStats-workshops/workshops/archive/2024-09-09_dai-berlin/index.html</loc>
+    <lastmod>2025-09-16T20:17:51.732Z</lastmod>
+  </url>
+  <url>
+    <loc>https://rchaeology.github.io/RchaeoStats-workshops/workshops/archive/2025-02-19_unileiden/index.html</loc>
+    <lastmod>2025-09-16T20:17:51.732Z</lastmod>
   </url>
 </urlset>
