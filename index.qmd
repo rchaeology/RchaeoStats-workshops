@@ -24,7 +24,6 @@ listing:
       - date
 ---
 
-
 A list of past and upcoming RchaeoStats workshops.
 
 More information about RchaeoStats can be found on the
