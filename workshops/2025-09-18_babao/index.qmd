@@ -1,0 +1,36 @@
+---
+title: RchaeoStats @ BABAO 2025
+description: RchaeoStats workshop at BABAO 2025, 18th September, 2025.
+author: Bjorn
+date: "2025-09-18"
+about:
+  id: hero-heading
+  template: solana
+  links:
+    - icon: github
+      text: Materials
+      href: https://github.com/Rchaeology/RchaeoStats
+    - icon: github
+      text: Notes
+      href: https://github.com/rchaeology/RchaeoStats-workshop-notes/tree/2025-09-18_babao # link to ntoes
+---
+ 
+:::{#hero-heading}
+
+**When:** 18 September, 2025
+
+**Where:** Kathleen Kenyon Building, Room 1.21, Leicester University
+
+**Registration:** Done via BABAO conference website.
+
+:::
+
+
+### Schedule
+
+{{< include _schedule.md >}}
+
+
+### Introductory slides
+
+<iframe src="/workshops/2025-09-18_babao/welcome.html" width="750" height="500"></iframe>

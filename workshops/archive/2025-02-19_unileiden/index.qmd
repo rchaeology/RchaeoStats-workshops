@@ -33,4 +33,4 @@ about:
 
 ### Introductory slides
 
-<iframe src="/workshops/2025-02-19_unileiden/welcome.html" width="750" height="500"></iframe>
+<iframe src="/workshops/archive/2025-02-19_unileiden/welcome.html" width="750" height="500"></iframe>
